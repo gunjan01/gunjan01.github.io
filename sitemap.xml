@@ -3,52 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/my-first-post/</loc>
+    <loc>https://gunjan01.github.io/my-first-post/</loc>
     <lastmod>2019-04-01T19:52:16+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-04-01T19:52:16+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/food/</loc>
+    <loc>https://gunjan01.github.io/</loc>
     <lastmod>2019-04-01T19:52:16+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/gallery/</loc>
+    <loc>https://gunjan01.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gunjan01.github.io/categories/food/</loc>
     <lastmod>2019-04-01T19:52:16+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://gunjan01.github.io/categories/gallery/</loc>
     <lastmod>2019-04-01T19:52:16+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/tech/</loc>
+    <loc>https://gunjan01.github.io/post/</loc>
     <lastmod>2019-04-01T19:52:16+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/travel/</loc>
+    <loc>https://gunjan01.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gunjan01.github.io/tags/tech/</loc>
+    <lastmod>2019-04-01T19:52:16+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gunjan01.github.io/categories/travel/</loc>
     <lastmod>2019-04-01T19:52:16+05:30</lastmod>
     <priority>0</priority>
   </url>

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>/categories/</link>
+    <link>https://gunjan01.github.io/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gunjan01.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Food</title>
-      <link>/categories/food/</link>
+      <link>https://gunjan01.github.io/categories/food/</link>
       <pubDate>Mon, 01 Apr 2019 19:52:16 +0530</pubDate>
       
-      <guid>/categories/food/</guid>
+      <guid>https://gunjan01.github.io/categories/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gallery</title>
-      <link>/categories/gallery/</link>
+      <link>https://gunjan01.github.io/categories/gallery/</link>
       <pubDate>Mon, 01 Apr 2019 19:52:16 +0530</pubDate>
       
-      <guid>/categories/gallery/</guid>
+      <guid>https://gunjan01.github.io/categories/gallery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel</title>
-      <link>/categories/travel/</link>
+      <link>https://gunjan01.github.io/categories/travel/</link>
       <pubDate>Mon, 01 Apr 2019 19:52:16 +0530</pubDate>
       
-      <guid>/categories/travel/</guid>
+      <guid>https://gunjan01.github.io/categories/travel/</guid>
       <description></description>
     </item>
     
