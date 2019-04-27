@@ -3,24 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gunjan01.github.io/year-that-went-by/</loc>
+    <lastmod>2019-04-27T18:57:04+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gunjan01.github.io/my-first-post/</loc>
     <lastmod>2019-04-01T19:52:16+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://gunjan01.github.io/</loc>
-    <lastmod>2019-04-01T19:52:16+05:30</lastmod>
+    <lastmod>2019-04-27T18:57:04+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gunjan01.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gunjan01.github.io/categories/food/</loc>
-    <lastmod>2019-04-01T19:52:16+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -31,8 +30,26 @@
   </url>
   
   <url>
-    <loc>https://gunjan01.github.io/post/</loc>
+    <loc>https://gunjan01.github.io/categories/journey/</loc>
     <lastmod>2019-04-01T19:52:16+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gunjan01.github.io/categories/khaana/</loc>
+    <lastmod>2019-04-01T19:52:16+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gunjan01.github.io/categories/miscellaneous/</loc>
+    <lastmod>2019-04-01T19:52:16+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gunjan01.github.io/post/</loc>
+    <lastmod>2019-04-27T18:57:04+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -43,13 +60,13 @@
   
   <url>
     <loc>https://gunjan01.github.io/tags/tech/</loc>
-    <lastmod>2019-04-01T19:52:16+05:30</lastmod>
+    <lastmod>2019-04-27T18:57:04+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://gunjan01.github.io/categories/travel/</loc>
-    <lastmod>2019-04-01T19:52:16+05:30</lastmod>
+    <loc>https://gunjan01.github.io/categories/tech/</loc>
+    <lastmod>2019-04-27T18:57:04+05:30</lastmod>
     <priority>0</priority>
   </url>
   

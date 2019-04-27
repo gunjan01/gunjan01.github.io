@@ -11,15 +11,6 @@
     
     
     <item>
-      <title>Food</title>
-      <link>https://gunjan01.github.io/categories/food/</link>
-      <pubDate>Mon, 01 Apr 2019 19:52:16 +0530</pubDate>
-      
-      <guid>https://gunjan01.github.io/categories/food/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gallery</title>
       <link>https://gunjan01.github.io/categories/gallery/</link>
       <pubDate>Mon, 01 Apr 2019 19:52:16 +0530</pubDate>
@@ -29,11 +20,38 @@
     </item>
     
     <item>
-      <title>Travel</title>
-      <link>https://gunjan01.github.io/categories/travel/</link>
+      <title>Journey</title>
+      <link>https://gunjan01.github.io/categories/journey/</link>
       <pubDate>Mon, 01 Apr 2019 19:52:16 +0530</pubDate>
       
-      <guid>https://gunjan01.github.io/categories/travel/</guid>
+      <guid>https://gunjan01.github.io/categories/journey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Khaana</title>
+      <link>https://gunjan01.github.io/categories/khaana/</link>
+      <pubDate>Mon, 01 Apr 2019 19:52:16 +0530</pubDate>
+      
+      <guid>https://gunjan01.github.io/categories/khaana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous</title>
+      <link>https://gunjan01.github.io/categories/miscellaneous/</link>
+      <pubDate>Mon, 01 Apr 2019 19:52:16 +0530</pubDate>
+      
+      <guid>https://gunjan01.github.io/categories/miscellaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://gunjan01.github.io/categories/tech/</link>
+      <pubDate>Sat, 27 Apr 2019 18:57:04 +0530</pubDate>
+      
+      <guid>https://gunjan01.github.io/categories/tech/</guid>
       <description></description>
     </item>
     

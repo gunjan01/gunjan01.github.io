@@ -6,10 +6,19 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Apr 2019 19:52:16 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2019 18:57:04 +0530</lastBuildDate>
     
 	<atom:link href="https://gunjan01.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Year That Went By</title>
+      <link>https://gunjan01.github.io/year-that-went-by/</link>
+      <pubDate>Sat, 27 Apr 2019 18:57:04 +0530</pubDate>
+      
+      <guid>https://gunjan01.github.io/year-that-went-by/</guid>
+      <description>I am kind of inspired by a beautiful blog I read in the morning about tech and that reminds me it’s almost been a year ( two months to go) until I finish my first year in the IT industry. (phew :P ) So ergoes, a jot of things I quickly learnt and few I learned the hard way. These opinions are my own and you don’t have to agree.</description>
+    </item>
     
     <item>
       <title>My First Post</title>
