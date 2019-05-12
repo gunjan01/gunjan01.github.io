@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miscellaneous on </title>
-    <link>https://gunjan01.github.io/categories/miscellaneous/</link>
+    <link>https://gunjan01.github.io/tags/miscellaneous/</link>
     <description>Recent content in Miscellaneous on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 12 May 2019 19:13:58 +0530</lastBuildDate>
     
-	<atom:link href="https://gunjan01.github.io/categories/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gunjan01.github.io/tags/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>https://gunjan01.github.io/reebok-floatathon/</guid>
       <description>The marathon. How an average runner becomes more than average.
  I don’t really remember when I started caring about fitness but it was vaguely at the start of this year, I think. I have ( was would be more appropriate, perhaps :P) been over confident when it came to gaining weight. “Oh! I never really gain weight” was something common you would hear from me whilst gobbling calories consciously others might give a second thought to.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://gunjan01.github.io/my-first-post/</link>
-      <pubDate>Mon, 01 Apr 2019 19:52:16 +0530</pubDate>
-      
-      <guid>https://gunjan01.github.io/my-first-post/</guid>
-      <description>Some junk from the Internet  First ordered list item Another item ⋅⋅* Unordered sub-list. Actual numbers don&amp;rsquo;t matter, just that it&amp;rsquo;s a number ⋅⋅1. Ordered sub-list And another item.  ⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we&amp;rsquo;ll use three here to also align the raw Markdown).
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.</description>
     </item>
     
   </channel>
