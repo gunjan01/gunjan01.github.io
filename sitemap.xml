@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gunjan01.github.io/the-monk-who-sold-his-ferrari/</loc>
+    <lastmod>2019-10-15T18:30:34+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gunjan01.github.io/ways-to-minimalism/</loc>
     <lastmod>2019-08-10T19:49:50+05:30</lastmod>
   </url>
@@ -29,12 +34,19 @@
   
   <url>
     <loc>https://gunjan01.github.io/</loc>
-    <lastmod>2019-08-10T19:49:50+05:30</lastmod>
+    <lastmod>2019-10-15T18:30:34+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gunjan01.github.io/categories/books/</loc>
+    <lastmod>2019-10-15T18:30:34+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gunjan01.github.io/categories/</loc>
+    <lastmod>2019-10-15T18:30:34+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -70,7 +82,7 @@
   
   <url>
     <loc>https://gunjan01.github.io/post/</loc>
-    <lastmod>2019-08-10T19:49:50+05:30</lastmod>
+    <lastmod>2019-10-15T18:30:34+05:30</lastmod>
     <priority>0</priority>
   </url>
   
