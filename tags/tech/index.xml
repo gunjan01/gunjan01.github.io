@@ -6,10 +6,19 @@
     <description>Recent content in Tech on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 18 Oct 2019 20:26:55 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2019 08:44:55 +0530</lastBuildDate>
     
 	<atom:link href="https://gunjan01.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>It doesn&#39;t have to that bad !</title>
+      <link>https://gunjan01.github.io/it-doesnt-have-to-that-bad/</link>
+      <pubDate>Sat, 07 Dec 2019 08:44:55 +0530</pubDate>
+      
+      <guid>https://gunjan01.github.io/it-doesnt-have-to-that-bad/</guid>
+      <description>This is a really impromptu blog I didnt&amp;rsquo; even hope, I would publish. It should not even be coming from someone who&amp;rsquo;s probably just over a year old in the industry. Over the past year, if I have to think, learning to review PR&amp;rsquo;s ( pull requests ) have significantly made me pick up more than I hoped for. Being a software engineer, one can see some beautiful artsy work while mostly reviewing pull requests :P</description>
+    </item>
     
     <item>
       <title>Tech Communities</title>
