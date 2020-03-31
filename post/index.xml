@@ -6,10 +6,19 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 07 Dec 2019 08:44:55 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2020 22:28:12 +0530</lastBuildDate>
     
 	<atom:link href="https://gunjan01.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020: The Remote Life</title>
+      <link>https://gunjan01.github.io/2020-the-remote-life/</link>
+      <pubDate>Tue, 31 Mar 2020 22:28:12 +0530</pubDate>
+      
+      <guid>https://gunjan01.github.io/2020-the-remote-life/</guid>
+      <description>In early 2020, I became a full-time remote employee. I have always loved remote right from the days when I used to work from home once/twice a week. A 100% remote job was something I had never explored before but always wanted to. I never really saw a point of going to a real office in any dev job except for some socialising. My day to day commute got up to 4 hours sometimes.</description>
+    </item>
     
     <item>
       <title>It doesn&#39;t have to that bad !</title>
