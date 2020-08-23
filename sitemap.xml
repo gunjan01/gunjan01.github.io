@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gunjan01.github.io/the-knowledge-wave/</loc>
+    <lastmod>2020-08-23T13:11:39+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gunjan01.github.io/2020-the-remote-life/</loc>
     <lastmod>2020-03-31T22:28:12+05:30</lastmod>
   </url>
@@ -49,7 +54,7 @@
   
   <url>
     <loc>https://gunjan01.github.io/</loc>
-    <lastmod>2020-03-31T22:28:12+05:30</lastmod>
+    <lastmod>2020-08-23T13:11:39+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -84,20 +89,20 @@
   </url>
   
   <url>
-    <loc>https://gunjan01.github.io/categories/miscellaneous/</loc>
-    <lastmod>2019-08-10T19:49:50+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://gunjan01.github.io/tags/miscellaneous/</loc>
     <lastmod>2019-08-10T19:49:50+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://gunjan01.github.io/categories/miscellaneous/</loc>
+    <lastmod>2019-08-10T19:49:50+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://gunjan01.github.io/post/</loc>
-    <lastmod>2020-03-31T22:28:12+05:30</lastmod>
+    <lastmod>2020-08-23T13:11:39+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -108,13 +113,13 @@
   </url>
   
   <url>
-    <loc>https://gunjan01.github.io/categories/tech/</loc>
+    <loc>https://gunjan01.github.io/tags/tech/</loc>
     <lastmod>2019-12-07T08:44:55+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://gunjan01.github.io/tags/tech/</loc>
+    <loc>https://gunjan01.github.io/categories/tech/</loc>
     <lastmod>2019-12-07T08:44:55+05:30</lastmod>
     <priority>0</priority>
   </url>
