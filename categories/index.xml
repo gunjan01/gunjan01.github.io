@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
@@ -6,13 +6,18 @@
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 15 Oct 2019 18:30:34 +0530</lastBuildDate>
-    
-	<atom:link href="https://gunjan01.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 07 Dec 2019 08:44:55 +0530</lastBuildDate><atom:link href="https://gunjan01.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tech</title>
+      <link>https://gunjan01.github.io/categories/tech/</link>
+      <pubDate>Sat, 07 Dec 2019 08:44:55 +0530</pubDate>
+      
+      <guid>https://gunjan01.github.io/categories/tech/</guid>
+      <description></description>
+    </item>
     
     <item>
-      <title>Books</title>
+      <title>books</title>
       <link>https://gunjan01.github.io/categories/books/</link>
       <pubDate>Tue, 15 Oct 2019 18:30:34 +0530</pubDate>
       
@@ -21,34 +26,7 @@
     </item>
     
     <item>
-      <title>Gallery</title>
-      <link>https://gunjan01.github.io/categories/gallery/</link>
-      <pubDate>Mon, 01 Apr 2019 19:52:16 +0530</pubDate>
-      
-      <guid>https://gunjan01.github.io/categories/gallery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Journey</title>
-      <link>https://gunjan01.github.io/categories/journey/</link>
-      <pubDate>Sun, 23 Jun 2019 11:33:37 +0530</pubDate>
-      
-      <guid>https://gunjan01.github.io/categories/journey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Khaana</title>
-      <link>https://gunjan01.github.io/categories/khaana/</link>
-      <pubDate>Mon, 01 Apr 2019 19:52:16 +0530</pubDate>
-      
-      <guid>https://gunjan01.github.io/categories/khaana/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Miscellaneous</title>
+      <title>miscellaneous</title>
       <link>https://gunjan01.github.io/categories/miscellaneous/</link>
       <pubDate>Sat, 10 Aug 2019 19:49:50 +0530</pubDate>
       
@@ -57,11 +35,38 @@
     </item>
     
     <item>
-      <title>Tech</title>
-      <link>https://gunjan01.github.io/categories/tech/</link>
-      <pubDate>Sat, 07 Dec 2019 08:44:55 +0530</pubDate>
+      <title>journey</title>
+      <link>https://gunjan01.github.io/categories/journey/</link>
+      <pubDate>Sun, 23 Jun 2019 11:33:37 +0530</pubDate>
       
-      <guid>https://gunjan01.github.io/categories/tech/</guid>
+      <guid>https://gunjan01.github.io/categories/journey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://gunjan01.github.io/categories/home/</link>
+      <pubDate>Sun, 12 May 2019 19:13:58 +0530</pubDate>
+      
+      <guid>https://gunjan01.github.io/categories/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gallery</title>
+      <link>https://gunjan01.github.io/categories/gallery/</link>
+      <pubDate>Mon, 01 Apr 2019 19:52:16 +0530</pubDate>
+      
+      <guid>https://gunjan01.github.io/categories/gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>khaana</title>
+      <link>https://gunjan01.github.io/categories/khaana/</link>
+      <pubDate>Mon, 01 Apr 2019 19:52:16 +0530</pubDate>
+      
+      <guid>https://gunjan01.github.io/categories/khaana/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
@@ -6,10 +6,16 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 23 Aug 2020 13:11:39 +0530</lastBuildDate>
-    
-	<atom:link href="https://gunjan01.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 07 Jan 2022 22:45:32 +0530</lastBuildDate><atom:link href="https://gunjan01.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Towards being pound wise and penny foolish.</title>
+      <link>https://gunjan01.github.io/towards-being-pound-wise-and-penny-foolish./</link>
+      <pubDate>Fri, 07 Jan 2022 22:45:32 +0530</pubDate>
+      
+      <guid>https://gunjan01.github.io/towards-being-pound-wise-and-penny-foolish./</guid>
+      <description>This blog is quite different from the rest. Not sure whether I would publish something like this again but it&amp;rsquo;s sort of my personal unpublished &amp;ldquo;Tweetstorm&amp;rdquo; and a checkpoint having little bit of philosophy, little bit of practicality on the things I have seen around me with a handful of them being personal learnings.
+   The art of saying &amp;ldquo;no&amp;rdquo; and to say it well is one of the most important thing you have to learn.</description>
+    </item>
     
     <item>
       <title>The Knowledge Wave</title>
@@ -36,7 +42,7 @@
       <pubDate>Sat, 07 Dec 2019 08:44:55 +0530</pubDate>
       
       <guid>https://gunjan01.github.io/it-doesnt-have-to-that-bad/</guid>
-      <description>This is a really impromptu blog I didnt&amp;rsquo; even hope, I would publish. It should not even be coming from someone who&amp;rsquo;s probably just over a year old in the industry. Over the past year, if I have to think, learning to review PR&amp;rsquo;s ( pull requests ) have significantly made me pick up more than I hoped for. Being a software engineer, one can see some beautiful artsy work while mostly reviewing pull requests :P</description>
+      <description>This is a really impromptu blog I didnt&#39; even hope, I would publish. It should not even be coming from someone who&amp;rsquo;s probably just over a year old in the industry. Over the past year, if I have to think, learning to review PR&amp;rsquo;s ( pull requests ) have significantly made me pick up more than I hoped for. Being a software engineer, one can see some beautiful artsy work while mostly reviewing pull requests :P</description>
     </item>
     
     <item>
